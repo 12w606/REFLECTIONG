@@ -4,17 +4,5 @@
 
 
 ## Features
-- Feature 1
-- Feature 2
-
-## How to Use
-Step-by-step instructions to access or use the project.
-
-## Setup
-Explain how to install or set up the project locally.
-
-## Contributing
-Guidelines for contributing to the project.
-
-## License
-Include licensing information if applicable.
+- 资料购买——除了电路资料是多余，其他资料还可以。自主性60分，完成效果65分。150元左右就够
+- 
